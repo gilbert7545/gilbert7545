@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Gilbert 👋
 
-<!--
-**gilbert7545/gilbert7545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ECE Student (S6)  
+🔧 Interested in FPGA, Embedded Systems & Automotive Electronics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- FPGA ALU with OLED Display  
+- OLED Interfacing using Verilog  
+- MATLAB Communication System Simulations  
+
+---
+
+## 🛠 Skills
+- Verilog  
+- Vivado  
+- MATLAB  
+- Digital Electronics  
+
+---
+
+## 📌 Goal
+To build practical embedded and FPGA-based systems for real-world applications.
